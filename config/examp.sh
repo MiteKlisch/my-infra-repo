@@ -1,10 +1,6 @@
 #!/bin/bash 
 
-  
-
 LINE=1 
-
-  
 
 while read -r CURRENT_LINE 
 
@@ -14,4 +10,4 @@ echo "$LINE: $CURRENT_LINE"
 
     ((LINE++)) 
 
-done < "sample_file.txt" 
+done < "peex_file.txt" 
