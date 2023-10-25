@@ -12,8 +12,8 @@ my.app.datasource.dialect=org.hibernate.dialect.Oracle12cDialect
 
 my.app.datasource.jdbcUrl=<jdbc url> 
 
-my.app.datasource.schema=<your schema> 
+my.app.datasource.schema=dbo
 
-my.app.datasource.username=<username> 
+my.app.datasource.username=vklis
 
 my.app.datasource.password=<password> 
