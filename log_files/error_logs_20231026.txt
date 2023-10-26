@@ -1,0 +1,744 @@
+Apache: [Sun Dec 04 04:47:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:51:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:51:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:51:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:51:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:52:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:52:15 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:52:15 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:52:52 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:52:52 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:53:16 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:53:16 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:53:54 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:54:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:54:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:54:18 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:54:18 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 04:54:20 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:56:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:57:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:57:24 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:57:24 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:58:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:58:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:59:38 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 04:59:38 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:00:09 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:00:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:00:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:12:10 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:12:28 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:12:28 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:12:30 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 05:15:09 2005] [error] [client 222.166.160.184] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 05:15:16 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:01:30 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:02:02 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:02:07 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:02:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:02:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:02:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:06:12 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:06:12 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:06:26 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:06:26 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:06:26 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:06:26 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:13:01 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:16:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:16:23 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:16:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:16:39 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:17:05 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:17:24 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:17:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:17:35 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:18:11 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:18:11 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:18:31 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:18:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:18:55 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:19:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:19:34 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:19:34 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:20:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:20:46 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:20:46 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:23:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:30:43 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:36:10 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:36:10 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:41:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:41:08 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:41:08 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:41:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:41:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:42:30 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:42:30 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:42:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:42:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:43:40 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:43:40 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:45:57 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:46:31 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:46:31 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:46:33 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:46:34 2005] [error] mod_jk child workerEnv in error state 10
+Apache: [Sun Dec 04 06:46:34 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:47:43 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:49:24 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:51:23 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 06:51:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:51:23 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:51:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:51:26 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 06:52:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:52:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:52:41 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 06:52:41 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:53:26 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:55:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:55:23 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:55:23 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 06:56:17 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:57:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:57:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:57:23 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 06:57:23 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:57:24 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 06:58:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:58:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:58:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:59:40 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 06:59:47 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 06:59:47 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:02:03 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 07:02:03 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 07:02:03 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 07:02:03 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:02:03 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:07:30 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 07:07:30 2005] [error] mod_jk child workerEnv in error state 10
+Apache: [Sun Dec 04 07:07:30 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 07:08:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:08:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:08:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:11:05 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:11:22 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:11:22 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:12:08 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:12:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:12:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:13:41 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:13:41 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:14:29 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 07:45:45 2005] [error] [client 63.13.186.196] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 08:54:17 2005] [error] [client 147.31.138.75] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 09:35:12 2005] [error] [client 207.203.80.15] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 10:53:30 2005] [error] [client 218.76.139.20] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 11:11:07 2005] [error] [client 24.147.151.74] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 11:33:18 2005] [error] [client 211.141.93.88] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 11:42:43 2005] [error] [client 216.127.124.16] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 12:33:13 2005] [error] [client 208.51.151.210] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 13:32:32 2005] [error] [client 65.68.235.27] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 14:29:00 2005] [error] [client 4.245.93.87] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 15:18:36 2005] [error] [client 67.154.58.130] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 15:59:01 2005] [error] [client 24.83.37.136] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 16:24:05 2005] [error] [client 58.225.62.140] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 16:24:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:32:56 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:32:58 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 16:32:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:32:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:35:52 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:41:22 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:41:22 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:41:22 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:41:22 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:46:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:48:01 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 16:48:01 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 16:48:01 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:48:01 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:48:01 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:05:48 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:05:48 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:05:48 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:12:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:12:55 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:12:55 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:12:55 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:12:57 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:20:46 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:20:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:20:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:20:46 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:20:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:21:04 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 17:31:12 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:31:12 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:31:12 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 17:31:12 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 17:31:45 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:31:45 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:34:57 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:34:57 2005] [error] [client 61.138.216.82] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 17:43:08 2005] [error] jk2_init() Can't find child 1566 in scoreboard
+Apache: [Sun Dec 04 17:43:08 2005] [error] jk2_init() Can't find child 1567 in scoreboard
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child init 1 -2
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child init 1 -2
+Apache: [Sun Dec 04 17:43:12 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 17:53:43 2005] [error] [client 218.39.132.175] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 18:24:22 2005] [error] [client 125.30.38.52] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 19:25:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:32:33 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:32:34 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:32:34 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 19:32:34 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:36:05 2005] [error] [client 61.37.222.240] Directory index forbidden by rule: /var/www/html/
+Apache: [Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:41:21 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:41:21 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:41:21 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:41:21 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:46:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:46:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:46:20 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:46:20 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:50:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:50:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:51:18 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:51:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:51:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:51:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:56:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:56:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:56:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 19:56:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:05:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:05:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:05:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:05:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:11:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:11:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:11:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:11:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:16:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:16:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:16:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:16:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:21:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:22:52 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:24:49 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 20:24:49 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Sun Dec 04 20:24:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:24:49 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:26:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:32:55 2005] [error] mod_jk child workerEnv in error state 10
+Apache: [Sun Dec 04 20:32:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:32:55 2005] [error] mod_jk child workerEnv in error state 10
+Apache: [Sun Dec 04 20:34:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:34:25 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:34:25 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 20:34:25 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:37:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:37:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:38:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:38:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:38:14 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:47:16 2005] [error] jk2_init() Can't find child 2082 in scoreboard
+Apache: [Sun Dec 04 20:47:16 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Sun Dec 04 20:47:16 2005] [error] mod_jk child init 1 -2
+Apache: [Sun Dec 04 20:47:16 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Sun Dec 04 20:47:17 2005] [error] jk2_init() Can't find child 2085 in scoreboard
+Apache: [Sun Dec 04 20:47:17 2005] [error] mod_jk child init 1 -2
+Apache: [Sun Dec 04 20:47:17 2005] [error] jk2_init() Can't find child 2086 in scoreboard
+Apache: [Sun Dec 04 20:47:17 2005] [error] mod_jk child init 1 -2
+Apache: [Sun Dec 04 20:47:17 2005] [error] jk2_init() Can't find child 2087 in scoreboard
+Apache: [Sun Dec 04 20:47:17 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Sun Dec 04 20:47:17 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 01:04:31 2005] [error] [client 218.62.18.218] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 01:30:32 2005] [error] [client 211.62.201.48] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 03:21:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:23:24 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:23:24 2005] [error] [client 218.207.61.7] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 03:25:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:40:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:44:50 2005] [error] [client 168.20.198.21] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 03:44:50 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:47:54 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 03:47:54 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 03:47:54 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 03:47:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:50:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:50:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:50:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:50:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:56:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:56:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:56:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 03:56:15 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:01:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:01:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:01:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:01:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:06:45 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:06:45 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 10
+Apache: [Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 05:06:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 05:06:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 05:06:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 05:15:33 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 05:15:33 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 05:15:33 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 05:15:33 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 06:35:27 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 06:36:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 06:36:59 2005] [error] [client 221.232.178.24] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 07:16:03 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:16:03 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:21:09 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:21:09 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:21:09 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:26:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:26:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:26:00 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:32:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:32:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:32:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:32:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:37:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:37:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:37:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:37:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:43:16 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:43:16 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:43:16 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:43:19 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:47:22 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 07:47:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:47:40 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:47:40 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 07:48:55 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:48:55 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:48:56 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:48:56 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:51:23 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:52:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:52:02 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:53:01 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:55:08 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 07:55:08 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:55:08 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 07:57:02 2005] [error] jk2_init() Can't find child 5053 in scoreboard
+Apache: [Mon Dec 05 07:57:02 2005] [error] jk2_init() Can't find child 5054 in scoreboard
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 07:57:02 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 09:09:48 2005] [error] [client 207.12.15.211] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 09:36:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 09:36:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 09:55:21 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:10:33 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:17:51 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:17:51 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:17:51 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:17:51 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:21:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:21:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:21:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:21:13 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:26:31 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:26:31 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:26:31 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:26:31 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:26:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:26:39 2005] [error] [client 141.153.150.164] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 10:28:44 2005] [error] [client 198.232.168.9] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 10:33:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:33:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:33:44 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:33:44 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:38:04 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 10:38:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:38:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:38:04 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:43:39 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 10:43:41 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:43:51 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:43:51 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 10:47:17 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:47:17 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:47:45 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:47:45 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:47:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:48:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:48:48 2005] [error] [client 67.166.248.235] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 10:51:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:51:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:52:21 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 11:06:51 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 11:06:51 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 11:06:51 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5619 in scoreboard
+Apache: [Mon Dec 05 11:06:52 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5620 in scoreboard
+Apache: [Mon Dec 05 11:06:52 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5621 in scoreboard
+Apache: [Mon Dec 05 11:06:52 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5622 in scoreboard
+Apache: [Mon Dec 05 11:06:52 2005] [error] mod_jk child init 1 -2
+Apache: [Mon Dec 05 12:36:39 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 12:36:39 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 12:36:39 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 12:36:39 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 12:40:38 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 12:50:43 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 12:50:43 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 12:55:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 12:55:49 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:00:34 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:00:34 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:05:24 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:10:59 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:16:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:16:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:16:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:16:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:22:48 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:22:48 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:22:48 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:22:48 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:32:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:32:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:32:10 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:32:10 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:32:30 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:32:30 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:39:14 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:39:13 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:39:41 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:39:41 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 13:39:41 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:43:46 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:43:46 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:43:46 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:44:38 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:44:38 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:45:08 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:45:08 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:45:08 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:47:11 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:47:11 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:47:11 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:47:11 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 13:52:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:52:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:53:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:53:35 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 13:53:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 13:53:35 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 14:01:48 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 14:01:48 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 14:01:48 2005] [error] mod_jk child workerEnv in error state 8
+Apache: [Mon Dec 05 14:11:43 2005] [error] [client 141.154.18.244] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 14:11:45 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 15:31:10 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 15:31:10 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 15:31:10 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 15:41:32 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 15:41:32 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 15:41:32 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 15:45:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 15:51:20 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 15:51:20 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 15:51:20 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 15:55:32 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:02:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:02:02 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 16:02:02 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:07:09 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 16:07:09 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:07:09 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 16:10:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:10:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:16:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:16:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:16:36 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:21:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:21:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:21:29 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:26:05 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:26:05 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:26:05 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:31:52 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:31:52 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:31:52 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:40:06 2005] [error] mod_jk child workerEnv in error state 9
+Apache: [Mon Dec 05 16:40:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:40:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 16:45:04 2005] [error] [client 216.216.185.130] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 17:31:39 2005] [error] [client 218.75.106.250] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 17:31:41 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:35:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:35:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:40:39 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:40:39 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:46:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:46:06 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:50:41 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:50:41 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:55:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 17:55:35 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:00:26 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:10:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:10:58 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:15:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:15:47 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:20:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:20:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:27:33 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:27:37 2005] [error] mod_jk child workerEnv in error state 7
+Apache: [Mon Dec 05 18:35:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:35:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:40:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:40:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:45:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:45:53 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:50:31 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:56:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 18:56:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 19:00:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 19:00:44 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 19:00:54 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 19:00:56 2005] [error] [client 68.228.3.15] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 19:11:04 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 19:14:09 2005] [error] [client 61.220.139.68] Directory index forbidden by rule: /var/www/html/
+Apache: [Mon Dec 05 19:14:11 2005] [error] mod_jk child workerEnv in error state 6
+Apache: [Mon Dec 05 19:15:57 2005] [error] mod_jk child workerEnv in error state 6Hadoop: 2015-10-18 18:04:11,034 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: Container complete event for unknown container id container_1445144423722_0020_01_000012
+Hadoop: 2015-10-18 18:06:01,840 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:03,856 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:05,934 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:07,950 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:09,966 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:11,997 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:14,013 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:16,029 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:18,045 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:20,076 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:22,092 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:24,092 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:26,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:26,139 ERROR [eventHandlingThread] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d
+Hadoop: 2015-10-18 18:06:26,139 ERROR [eventHandlingThread] org.apache.hadoop.yarn.YarnUncaughtExceptionHandler: Thread Thread[eventHandlingThread,5,main] threw an Exception.
+Hadoop: 2015-10-18 18:06:28,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:30,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:32,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:34,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:36,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:38,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:40,108 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:42,109 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:44,124 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:46,124 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:48,140 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:50,140 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:52,140 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:54,141 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:56,156 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:06:58,156 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:00,188 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:02,188 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:04,188 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:06,188 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:08,188 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:10,188 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:12,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:14,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:16,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:18,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:20,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:22,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:24,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:26,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:28,189 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:30,190 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:32,190 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:34,205 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:36,221 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:38,221 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:40,221 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:42,222 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:44,222 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:46,222 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:48,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:50,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:52,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:54,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:56,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:07:58,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:00,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:02,238 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:04,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:06,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:08,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:10,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:12,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:14,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:16,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:18,239 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:20,255 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:22,287 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:24,302 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:26,302 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:28,303 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:30,303 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:32,334 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:34,334 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:36,334 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:38,334 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:40,334 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:42,366 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:44,366 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:46,366 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:48,382 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:50,398 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:52,429 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:54,429 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:56,429 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:08:58,429 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:00,429 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:02,461 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:04,461 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:06,461 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:08,461 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:10,461 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:12,461 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:14,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:16,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:18,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:20,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:22,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:24,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:26,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:28,462 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:30,463 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:32,463 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:34,463 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:36,463 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:38,463 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:40,479 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:42,479 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:44,479 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:46,495 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:48,510 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:50,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:52,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:54,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:56,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:09:58,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:00,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:02,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:04,511 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:06,512 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:08,527 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:10,527 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:12,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:14,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:16,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:18,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:20,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:22,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:24,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:26,528 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:28,544 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:30,544 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:32,544 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:34,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:36,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:38,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:40,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:42,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:44,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:46,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:48,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:50,545 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:52,546 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 
+Hadoop: 2015-10-18 18:10:54,546 ERROR [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: ERROR IN CONTACTING RM. 

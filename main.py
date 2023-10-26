@@ -46,7 +46,7 @@ gitLogsObj = {"Apache": "https://raw.githubusercontent.com/logpai/loghub/master/
 
 current_datetime = datetime.now()
 
-formTime = current_datetime.strftime("%Y%m%d%H%M%S")
+#formTime = current_datetime.strftime("%Y%m%d%H%M%S")
 
 today_date = current_datetime.strftime("%Y%m%d")
 
@@ -55,7 +55,7 @@ directory = os.getcwd()
 # Define the folder path where you want to create the folder
 folder_path = f"{directory}\\log_files\\logs_{today_date}"
 
-error_patterns = [r'ERROR:', r'\[error\]', r'ERROR']
+error_patterns = [r'ERROR:', r'\[error\]', r'ERROR \[']
 
 supported_extensions = ('.log', '.txt', '.json')
 
@@ -67,7 +67,6 @@ if not os.path.exists(folder_path):
     print(f"Folder for today's date '{today_date}' created at: {folder_path}")
 else:
     print(f"Folder for today's date '{today_date}' already exists at: {folder_path}")
-
 
 counter = 1
 
@@ -94,4 +93,4 @@ ErrorTargetFile = f'{directory}\\log_files\\error_logs_{today_date}.txt'
 
 copyErrorMessages(folder_path, ErrorTargetFile)
 
-print("Loop finished!")
+print("Integration is finished!")
