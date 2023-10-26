@@ -1,0 +1,19 @@
+# Oracle datasource configuration 
+
+my.app.datasource.driverClassName=oracle.jdbc.driver.OracleDriver 
+
+my.app.datasource.poolName=MYAPP-Pool 
+
+my.app.datasource.minimum-idle=1 
+
+my.app.datasource.maximumPoolSize=5 
+
+my.app.datasource.dialect=org.hibernate.dialect.Oracle12cDialect 
+
+my.app.datasource.jdbcUrl=<jdbc url> 
+
+my.app.datasource.schema=dbo
+
+my.app.datasource.username=vklis
+
+my.app.datasource.password=<password> 
